@@ -4,7 +4,7 @@
 
 # How to run
 
-  * python <csv file> <p-value cutoff>
+  * python csv_file cutoff
   * Comment: use 0.01 as default p-value cutoff
 
 # Arguments
