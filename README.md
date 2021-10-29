@@ -4,6 +4,12 @@
 Takes raw data from an NMR experiment and pairwise compares all samples stored at 4 degrees C with all 
 samples stored at 25 degrees C. A paired t-test is performed, and the column names where the mean values 
 differ significantly between the two temperatures are returned, together with the number of columns.
+
+Package dependencies:
+
+stats
+pandas
+scipy
 ```
 
 # How to run
