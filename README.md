@@ -7,7 +7,6 @@ differ significantly between the two temperatures are returned, together with th
 
 Package dependencies:
 
-stats
 pandas
 scipy
 ```
